@@ -29,9 +29,11 @@ public class BenjaminAlgorithm {
 
                 break;
             }
-            //else if(LinearSearch[i].){
+            else if(! LinearSearch[i].equals(navn)){
+                System.out.println(navn +" er ikke i skole i dag. ");
 
-            //}
+            }
+
 
         }
         System.out.println(navn +" er ikke i skole i dag. ");
