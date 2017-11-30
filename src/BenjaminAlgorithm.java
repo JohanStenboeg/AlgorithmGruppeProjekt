@@ -30,7 +30,7 @@ public class BenjaminAlgorithm {
             else{
 
             }
-            System.out.println(navn +" er ikke i skole i dag.");
+            System.out.println(navn +" er ikke i skole i dag. ");
         }
     }
 }
