@@ -29,7 +29,7 @@ public class BenjaminAlgorithm {
 
                 break;
             }
-            else if(LinearSearch[i].){
+            else if(! LinearSearch[i].equals(navn)){
 
             }
 
