@@ -1,3 +1,5 @@
+package AlgorithmsSerching;
+
 import java.util.Scanner;
 
 public class BenjaminAlgorithm {

@@ -1,3 +1,5 @@
+package AlgorithmsSerching;
+
 public class TheCaptain420BlazeItSearch {
 
     public static void main(String[] args) {
