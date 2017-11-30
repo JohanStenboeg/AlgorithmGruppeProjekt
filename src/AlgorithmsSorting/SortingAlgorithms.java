@@ -12,7 +12,7 @@ public class SortingAlgorithms {
         int[] numbersinto = numbersfrom;
         int x = 0;
         //ArrayList<Integer> numbersInto = new ArrayList<Integer>();
-/*
+/*m
         while(lost== false){
             if(numbersfrom[(x+1)] > numbersfrom[x]){
                 numbersInto.add(numbersfrom[x]);
